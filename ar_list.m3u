@@ -9,10 +9,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa"tvg-logo="https://i.imgur.com/sEOjApe.png"group-title="Undefined":http-referrer="":http-user-agent="",Al Saudiya Alaan (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
-#EXTINF:-1 tvg-id="قناة القرآن الكريم"tvg-logo=""group-title="":http-referrer="":http-user-agent="",قناة القرآن الكريم
-https://www.youtube.com/watch?v=Cm1v4bteXbI
-#EXTINF:-1 tvg-id="قناة السنة النبوية"tvg-logo=""group-title="":http-referrer="":http-user-agent="",قناة السنة النبوية
-https://www.youtube.com/watch?v=BtMUUgApnPs
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa"tvg-logo="https://i.imgur.com/A2fJysM.png"group-title="Religious":http-referrer="":http-user-agent="",Al Quran Al Kareem TV (1080p)
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="Makkah Live"tvg-logo="https://i.imgur.com/A2fJysM.png"group-title="Religious":http-referrer="":http-user-agent="",Al Quran Al Kareem TV (1080p)
