@@ -97,7 +97,7 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae"tvg-logo="https://i.imgur.com/NXFkYFj.png"group-title="News":http-referrer="":http-user-agent="",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa"tvg-logo="https://i.imgur.com/bqRC3sl.png"group-title="Business;News":http-referrer="":http-user-agent="",Asharq News (1080p)
-https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa"tvg-logo="https://i.imgur.com/7bRVpnu.png"group-title="News":http-referrer="":http-user-agent="",Al Jazeera (1080p)
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="RTArabic.ru"tvg-logo="https://i.imgur.com/G8vGrn1.png"group-title="News":http-referrer="":http-user-agent="",RT Arabic (1080p) [Geo-blocked]
