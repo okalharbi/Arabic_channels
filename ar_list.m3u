@@ -98,6 +98,8 @@ https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/in
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae"tvg-logo="https://i.imgur.com/NXFkYFj.png"group-title="News":http-referrer="":http-user-agent="",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Alarabiya English"tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png"group-title="News":http-referrer="":http-user-agent="",Al Arabiya English (1080p)
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa"tvg-logo="https://i.imgur.com/bqRC3sl.png"group-title="Business;News":http-referrer="":http-user-agent="",Asharq News (1080p)
 https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa"tvg-logo="https://i.imgur.com/7bRVpnu.png"group-title="News":http-referrer="":http-user-agent="",Al Jazeera (1080p)
